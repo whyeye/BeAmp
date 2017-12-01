@@ -1,3 +1,6 @@
+v2.61 (14th May 1999)
+  * changed font-color in browser (no more beta)
+
 v2.6 (10th May 1999)
   * added winshade-mode for equalizer
   * renamed browser bitmap
