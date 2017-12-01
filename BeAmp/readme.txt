@@ -1,4 +1,4 @@
-BeAmp v2.41 - Released March 18th 1999
+BeAmp v2.5 - Released April 18th 1999
    
 
 TABLE OF CONTENTS

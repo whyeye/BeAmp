@@ -1,0 +1,33 @@
+v2.5 (18th April 1999)
+  * added BeOS-like cursors  
+  * added skinned browser window (still beta)
+  * modified main-window and equalizer
+  * modified EQ and PL buttons in main-window
+  * resized main title display
+  * added whatsnew.txt
+
+v2.41 (18th March 1999)
+  * fixed playlist button (add file)
+  * modified winshade-mode
+
+v2.4 (26th December 1998)
+  * fixed equalizer and playlist window
+  * added onclick images for the OPIDV buttons
+  * modified readme.txt layout
+
+v2.3 (21st November 1998)
+  * modified main-window
+
+v2.2 (14th November 1998)
+  * changes? can't remember
+  
+v2.1 (4th November 1998)
+  * fixed buttons in winshade-mode
+
+v2.0 (1st November 1998)
+  * added skinned equalizer and playlist
+  * modified main window
+  * fixed position bar
+  * modified readme.txt layout
+
+v1.0 (26th October 1998)
