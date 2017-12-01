@@ -1,3 +1,7 @@
+v2.66 (3rd March 2000)
+  * added avs support
+  * readme.txt replaced by readme.htm
+
 v2.65 (12th January 2000)
   * fixed main.bmp
   * new layout for readme.txt
