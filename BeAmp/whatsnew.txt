@@ -1,3 +1,8 @@
+v2.6 (10th May 1999)
+  * added winshade-mode for equalizer
+  * renamed browser bitmap
+  * added file_id.diz
+
 v2.52 (19th April 1999)
  * fixed browser window
 
