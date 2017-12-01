@@ -1,3 +1,6 @@
+v2.64 (13th June 1999)
+  * fixed shuffle-button
+
 v2.63 (3rd June 1999)
   * fixed textcolors in minibrowser
   * modified readme.txt (new download url)
