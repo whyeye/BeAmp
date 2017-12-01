@@ -1,3 +1,6 @@
+v2.52 (19th April 1999)
+ * fixed browser window
+
 v2.51 (19th April 1999)
   * modified browser window (beta2 now)
   * modified playlist window
