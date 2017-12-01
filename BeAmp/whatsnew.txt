@@ -1,3 +1,6 @@
+v2.62 (16th May 1999)
+  * fixed peak color
+
 v2.61 (14th May 1999)
   * changed font-color in browser (no more beta)
 
