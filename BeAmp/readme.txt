@@ -1,49 +1,20 @@
-BeAmp v2.64 - Released 13th June 1999
-   
+BeAmp v2.65 (2000-01-12)
 
-TABLE OF CONTENTS
+================================================================
 
-   1.   INTRODUCTION
-   2.   INSTALLATION
-   3.   ABOUT
-   4.   CREDITS
-   5.   CONTACT
-   6.   LEGAL
-    	
+Author         : Jan T. Sott
 
-1. INTRODUCTION
+E-Mail         : skins@whyEye.de
+Website        : www.whyEye.de/skins
 
-Thank you for downloading this skin. Make sure you have at least Winamp 1.91 to ensure the
-support of transparency. For full support check www.winamp.com for the latest release of Winamp.
+================================================================
 
+Created short time after my first one, probably because of being
+interested on how to make a transparent skin (or was it just
+because of having too much time?). I don't have BeOS, but
+somehow it always attracted me, so I designed this one using the
+screenshots of Be's homepage. 
 
-2. INSTALLATION
+================================================================
 
-Unzipping to your winamp/skins directory will create a subfolder storing all data. Launch Winamp, go to the option-menu and use the skin-browser to select the skin.
-
-For users of Winamp 2.04 or higher it's enough to copy the ZIP-File to the winamp/skins
-directory.
-
-
-3. ABOUT
-
-This is my second Winamp skin, the first one supporting the Winamp 2.01 specifications. I'm sure that you did not download this skin because of it's beauty. It was my intention to create a simple skin to get some practice with transparency and the new specifications. The first thing, that came in to my mind was creating a BeOS based skin. Now that my work on this is done, you can expect better skins in future.
-
-
-4. CREDITS
-
-Idea and realization: Jan T. Sott
-
-
-5. CONTACT
-
-E-Mail: skins@whyEye.de
-URL   : www.whyEye.de/skins
-
-
-6. LEGAL
-
-Be and BeOS are registered trademarks Be, Inc.
-
-Winamp is Copyright © 1997-1998 Nullsoft, Inc. and Justin Frankel.
-Winamp is a trademark of Nullsoft, Inc.
+Winamp.com rated this skin with the maximum rating of five stars

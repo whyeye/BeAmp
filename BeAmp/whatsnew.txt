@@ -1,3 +1,7 @@
+v2.65 (12th January 2000)
+  * fixed main.bmp
+  * new layout for readme.txt
+
 v2.64 (13th June 1999)
   * fixed shuffle-button
 
