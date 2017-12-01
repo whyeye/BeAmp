@@ -1,3 +1,7 @@
+v2.51 (19th April 1999)
+  * modified browser window (beta2 now)
+  * modified playlist window
+
 v2.5 (18th April 1999)
   * added BeOS-like cursors  
   * added skinned browser window (still beta)
