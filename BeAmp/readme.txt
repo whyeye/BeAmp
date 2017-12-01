@@ -1,4 +1,4 @@
-BeAmp v2.62 - Released 15th May 1999
+BeAmp v2.63 - Released 3rd June 1999
    
 
 TABLE OF CONTENTS
@@ -37,8 +37,8 @@ Idea and realization: Jan T. Sott
 
 5. CONTACT
 
-E-Mail: yathosho@altavista.net
-URL   : http://members.xoom.com/animeye/winamp
+E-Mail: skins@whyEye.de
+URL   : www.whyEye.de/skins
 
 
 6. LEGAL

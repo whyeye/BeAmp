@@ -4,5 +4,5 @@ Current=#ffffff
 NormalBG=#000000
 SelectedBG=#005000
 Font=Arial
-mbBG=#000000
-mbFG=#00CB00
+mbBG=#D0D0D0
+mbFG=#000000

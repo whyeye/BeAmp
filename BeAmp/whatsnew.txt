@@ -1,3 +1,7 @@
+v2.63 (3rd June 1999)
+  * fixed textcolors in minibrowser
+  * modified readme.txt (new download url)
+
 v2.62 (16th May 1999)
   * fixed peak color
 
