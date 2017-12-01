@@ -1,4 +1,4 @@
-BeAmp v2.2 - Released November 14th 1998
+BeAmp v2.3 - Released November 21st 1998
    
 
 Thank you for downloading this skin. Make sure you have at least Winamp 1.8, otherwise you
